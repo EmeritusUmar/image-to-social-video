@@ -29,8 +29,6 @@ Short-form video is the highest-reach content for small businesses and the most 
 ## Cost
 About $1–2.50 per finished video (Kling is the main cost). Self-hosted n8n and Cloudinary's free plan keep fixed costs at zero.
 
-## Credit
-Built from HieLite Academy's Automation Blueprint 01, configured and run end to end on my self-hosted n8n.
 
 ## Problems I solved
 - Render APIs are asynchronous: Wait nodes plus polling calls for Kling, DiffRhythm and JSON2Video, each with its own timing.
