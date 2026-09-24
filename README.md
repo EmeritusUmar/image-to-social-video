@@ -5,7 +5,7 @@
 
 > Send one photo and a one-line brief to a Telegram bot; get back a finished, captioned, music-scored vertical video for Reels, Shorts and TikTok, logged for scheduled posting.
 
-**Demo video:** [[link](https://youtu.be/HdbkbPAYnCk)]
+**Demo video:** [[link](https://youtu.be/HdbkbPAYnCk?si=5J0tCMU4YHipc45N)]
 
 ## Problem
 Short-form video is the highest-reach content for small businesses and the most expensive to produce: animating, music licensing, copywriting, rendering, uploading. Most businesses post far less than they should because each video costs an hour.
